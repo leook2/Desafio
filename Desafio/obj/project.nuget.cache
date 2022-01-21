@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+PFWyXUCivAAH0DAoCVDoXc0Mpnufv/DWY3Hfe3i4ZYkrbAUqKQzDI1B+GViVK9KuoKNkubx8Uf7KtXP8R7nMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liok\\Documents\\LEONARDO DOCS\\CURSOS\\Prova Coders\\Desafio Coders\\Desafio\\Desafio\\Desafio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liok\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\liok\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\liok\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\liok\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\liok\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\liok\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
