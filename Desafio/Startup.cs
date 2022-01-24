@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-
+using Desafio.Data;
 namespace Desafio
 {
     public class Startup
@@ -28,6 +28,7 @@ namespace Desafio
         {
 
             services.AddControllers();
+            services.AddDbContext<AppDbContext>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Desafio", Version = "v1" });
